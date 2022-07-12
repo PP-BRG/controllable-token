@@ -1,0 +1,20 @@
+{
+  "name": "controllable-token",
+  "version": "1.0.0",
+  "description": "A Controllable Token",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ERC20"
+  ],
+  "author": "Sivan Zheng",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.0"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.7.0"
+  }
+}
